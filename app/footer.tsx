@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-function footer() {
+function Footer() {
     return (
         <div className=' bg-deep-dark isolate'>
             <div className='relative container-content py-16 '>
@@ -103,4 +103,4 @@ function footer() {
     )
 }
 
-export default footer
+export default Footer

@@ -29,7 +29,7 @@ function Whoweare() {
                     <nav className='flex-1 px-6'>
                         <p className=' pb-6 text-deeper-gray'>
                             The firm engages in road construction, real estate, architectural designs, building engineering, civil engineering, project management and consultancy services. And is made up of a team with a total of over fifty years of operational experience in the road construction, real estate and general construction works business.
-                            We are committed to providing services that endure the test of time, combining the latest sustainable design and construction techniques to meet each customers' demand as well as increasing value for our clients and benefiting the communities in which we operate.
+                            We are committed to providing services that endure the test of time, combining the latest sustainable design and construction techniques to meet each customers demand as well as increasing value for our clients and benefiting the communities in which we operate.
                         </p>
                     </nav>
                 </nav>

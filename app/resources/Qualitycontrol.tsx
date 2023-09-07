@@ -19,7 +19,7 @@ function Qualitycontrol() {
                         <nav className=' text-deep-gray text-xl py-2'>01</nav>
                         <nav className='flex-1 px-6'>
                             <p className=' py-2 text-deeper-gray leading-relaxed'>
-                                Execute, maintain and constantly improve the ISO 9001:2008 quality management system, forming the founda- tion for creating high quality products and services to better satisfy customers' needs.
+                                Execute, maintain and constantly improve the ISO 9001:2008 quality management system, forming the founda- tion for creating high quality products and services to better satisfy customers needs.
                             </p>
                         </nav>
                     </nav>
@@ -29,7 +29,7 @@ function Qualitycontrol() {
                         <nav className=' text-deep-gray text-xl py-2'>02</nav>
                         <nav className='flex-1 px-6'>
                             <p className=' py-2 text-deeper-gray leading-relaxed'>
-                                Constantly innovate while ensuring that Gobco's projects meet both legal regulations and our employers' requirements.
+                                Constantly innovate while ensuring that GOBCOs projects meet both legal regulations and our employers requirements.
                             </p>
                         </nav>
                     </nav>
@@ -39,7 +39,7 @@ function Qualitycontrol() {
                         <nav className=' text-deep-gray text-xl py-2'>03</nav>
                         <nav className='flex-1 px-6'>
                             <p className=' py-2 text-deeper-gray leading-relaxed'>
-                                Maintain an adequately supplied facility and infrastructure, develop green working environments and construction projects, which contribute to the company's growth in partic-ular and society's advancement in general.
+                                Maintain an adequately supplied facility and infrastructure, develop green working environments and construction projects, which contribute to the companys growth in partic-ular and society advancement in general.
                             </p>
                         </nav>
                     </nav>
@@ -59,7 +59,7 @@ function Qualitycontrol() {
                         <nav className=' text-deep-gray text-xl py-2'>05</nav>
                         <nav className='flex-1 px-6'>
                             <p className=' py-2 text-deeper-gray leading-relaxed'>
-                                Promote management, productivity and quality. Encourage solidarity and team spirit within the organization and imple- ment steps to improve employees' standards of living.
+                                Promote management, productivity and quality. Encourage solidarity and team spirit within the organization and imple- ment steps to improve employees standards of living.
                             </p>
                         </nav>
                     </nav>

@@ -21,7 +21,7 @@ function Missionvision() {
                         <nav className='flex-1 px-6'>
                         <h1 className=' text-deep-dark font-medium text-3xl w-max add_underline'>OUR VISON</h1>
                         <p className=' py-12 text-deeper-gray leading-relaxed'>
-                        To provide superior products in building construction and related services that satisfies the need and expectations of our clients by applying innovation, recruiting and retaining high skilled and committed employees and taking advantage of emerging building construction technologies to improve the shareholders' value and contributing positively to the future of African infrastructure and integrating our communities, people, and countries as well as being hope to the hopeless. Forward-thinking and focused, we build sustainable futures and enrich communities.
+                        To provide superior products in building construction and related services that satisfies the need and expectations of our clients by applying innovation, recruiting and retaining high skilled and committed employees and taking advantage of emerging building construction technologies to improve the shareholders value and contributing positively to the future of African infrastructure and integrating our communities, people, and countries as well as being hope to the hopeless. Forward-thinking and focused, we build sustainable futures and enrich communities.
                         </p>
                         <p className=' py-6 text-deeper-gray leading-relaxed'>
                         We are known for innovative excellence. Our innovation and creative thinking are products of a collaborative approach. Our clients are part of our team- we share knowledge, insights and ideas

@@ -34,7 +34,7 @@ export function Partners() {
                 <ul className=' grid grid-cols-7 gap-5'>
                     {list.map((li, i) => {
                         return (
-                            <li>
+                            <li key={i}>
                                 <Image className=' bg-blend-luminosity h-28 w-28 aspect-square object-contain' width={500} height={500} quality={100} alt='patner' src={li} />
                             </li>
                         )

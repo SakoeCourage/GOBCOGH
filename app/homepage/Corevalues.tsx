@@ -15,7 +15,7 @@ export function Corevalues() {
                         <nav className='flex-1 px-6'>
                         <h1 className=' text-deep-dark font-medium text-3xl'>Innovation</h1>
                         <p className=' py-6 text-deeper-gray'>
-                            Our resourcefulness comes from our well educated staff's intellect and vitality. Innovative directions and ways of thinking are always saluted and facilitated at GOBCO. Standing still means moving backwards, we innovate to move forward.
+                            Our resourcefulness comes from our well educated staffs intellect and vitality. Innovative directions and ways of thinking are always saluted and facilitated at GOBCO. Standing still means moving backwards, we innovate to move forward.
                         </p>
                         </nav>
                     </nav>
@@ -37,7 +37,7 @@ export function Corevalues() {
                         <h1 className=' text-deep-dark font-medium text-3xl'>Reputation Priority</h1>
                         <p className=' py-6 text-deeper-gray'>
                             To us, building and protecting reputation is an uncompro- mising battle.
-                            In our philosophy, safeguarding the <b>GOBCO'S</b> name does not only mean winning customers' absolute trust, but also entails attaining full faith and credit from our staff.
+                            In our philosophy, safeguarding the <b>GOBCOS</b> name does not only mean winning customers absolute trust, but also entails attaining full faith and credit from our staff.
                             Prestige
                         </p>
                       

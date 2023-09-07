@@ -11,7 +11,7 @@ export function getMatchorEqual(path:string,pattern:string,exact:boolean = false
   }
 }
 
-function header() {
+function Header() {
   const path = usePathname()
   return (
     <header className=' bg-deep-dark border-b border-light-gray/30 sticky top-0 z-40'>
@@ -46,4 +46,4 @@ function header() {
   )
 }
 
-export default header
+export default Header
