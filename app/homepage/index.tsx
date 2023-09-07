@@ -1,0 +1,5 @@
+export * from './Hero.tsx'
+export * from './Corevalues.tsx'
+export * from './Ourteam.tsx'
+export * from './Project.tsx'
+export * from './Partners.tsx'
