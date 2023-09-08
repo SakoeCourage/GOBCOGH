@@ -9,17 +9,9 @@ let state = {
     series: [0, 85.7, 14.3],
     options: {
         legend: {
-            fontSize: '20px',
-            // position: "bottom",
-            // height: '15px'
+            fontSize: '20px'
         },
-        // tooltip: {
-        //     y: {
-        //         formatter: function (val: string) {
-        //             return `${val}%`
-        //         },
-        //     },
-        // },
+       
         labels: ["Commerical Projects", "Industrial Projects", "Civil Projects"],
         colors: [...colors_sets],
         responsive: [{
