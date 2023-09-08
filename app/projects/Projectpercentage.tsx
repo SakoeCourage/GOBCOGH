@@ -8,20 +8,18 @@ export const colors_sets:string[] = ['#0284c7', '#fb7185', '#fde047', '#92400e',
 let state = {
     series: [0, 85.7, 14.3],
     options: {
-        chart: {
-        },
         legend: {
-            position: "left",
             fontSize: '20px',
-            height: '15px'
+            // position: "bottom",
+            // height: '15px'
         },
-        tooltip: {
-            y: {
-                formatter: function (val: string) {
-                    return `${val}%`
-                },
-            },
-        },
+        // tooltip: {
+        //     y: {
+        //         formatter: function (val: string) {
+        //             return `${val}%`
+        //         },
+        //     },
+        // },
         labels: ["Commerical Projects", "Industrial Projects", "Civil Projects"],
         colors: [...colors_sets],
         responsive: [{
